@@ -1,0 +1,10 @@
+Package: m.m.m
+Name: m Mod Menu
+Depends: mobilesubstrate
+Version: 1
+Architecture: iphoneos-arm
+Description: m Mod Menu by mm!
+Maintainer: mm
+Author: mm
+Section: Tweaks
+Homepage: m
