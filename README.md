@@ -31,6 +31,8 @@ Infinite Pickup Distance
  # Notes
  Offsets may be outdated, so update them or otherwise use ByNameModding for Auto-Offsets-Update.
  
+ # Official Release
+ [Link](https://www.iosmods.com/topic/4938-outdated-shadowgun-legends-esp-aimbot-telekill-6-more-v106/?tab=comments#comment-124604)
  
  # Credit
  * Mobean -[Drawing Source Code](https://github.com/zeno544/esp-source-code-for-ios)
